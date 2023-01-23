@@ -1,11 +1,3 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #4
- * CSE 214 Recitation 30
- */
-
 package decisionMakerSystem;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -20,7 +12,7 @@ import java.util.Scanner;
  * the correct order so they could reach the exit. The amount of doors can be adjusted in order to make the game
  * harder or easier.
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class TreeDriver {
 
