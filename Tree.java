@@ -1,17 +1,9 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #4
- * CSE 214 Recitation 30
- */
-
 package decisionMakerSystem;
 
 /**
  * This class represents a tree, containing a root with the potential for each node to have at most three children
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class Tree {
 	
